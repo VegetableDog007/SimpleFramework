@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/bighead/cache/SqlCache.java=UTF-8
+encoding//src/bighead/pool/ConnectionPool.java=UTF-8
+encoding//src/bighead/proxy/DaoProxy.java=UTF-8
+encoding//src/bighead/test/ConnectionTest.java=UTF-8
+encoding//src/bighead/test/DaoTest.java=UTF-8
+encoding//src/bighead/test/Test.java=UTF-8
+encoding//src/bighead/util/ClassUtil.java=UTF-8
+encoding//src/bighead/util/JdbcUtil.java=UTF-8
